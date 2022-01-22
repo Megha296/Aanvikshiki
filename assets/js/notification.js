@@ -1,6 +1,6 @@
 var data_bs = [],filter_data= [];
 data_bs = [{"Time":"8:00 - 8:50","1":"Computer Graphics SS2 LAB,CSED17\/","2":"-","3":"-","4":"EDS lecture,CSED\/","5":"-"},
-{"Time":"8:50 - 9:40","1":"","2":"Secure Coding,msingh\/","3":"Secure Coding,msingh\/","4":"Theory of Computation LT402 Lecture,CSED8\/","5":"-"},
+{"Time":"8:50 - 9:40","1":"","2":"Secure Coding Lecture,msingh\/","3":"Secure Coding Lecture,msingh\/","4":"Theory of Computation LT402 Lecture,CSED8\/","5":"-"},
 {"Time":"9:40 - 10:30","1":"-","2":"Theory of Computation LT401 Lecture,CSED14\/","3":"Quantum Computing GC2 LAB,CSED16\/","4":"Computer Graphics LT402 Lecture,CSED10\/","5":"-"},
 {"Time":"10:30 - 11:20","1":"-","2":"Computer Graphics LT401 Lecture,CSED14\/","3":"","4":"-","5":"-"},
 {"Time":"11:20 - 12:10","1":"Theory of Computation LT402 Lecture,CSED12\/","2":"Theory of Computation TUT,CSED11\/","3":"Cyber Forensics LAB,CSED18\/","4":"-","5":"-"},
